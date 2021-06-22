@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background-color: #FFFF8D;
+}
+
+img {
+    width: 500px;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
+}
+
+p {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.image section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-top: 25px;
+    background-color: white;
+}

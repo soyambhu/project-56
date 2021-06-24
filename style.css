@@ -22,7 +22,7 @@ h2 {
     font-size: 30px;
 }
 
-.image section {
+.image-section {
     display: flex;
     justify-content: center;
 }
